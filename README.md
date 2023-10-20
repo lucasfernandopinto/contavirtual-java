@@ -17,13 +17,3 @@ e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrad
 - Caso ele digite qualquer opção que não seja correta, deve apresentar a mensagem de opção inválida.
 - Usaremos a classe Scanner para fazer a leitura da opção do usuário.
 <p></p>
-
-Exemplo/Sugestão de tela para o menu: 
-
-<p></p>
-
-![image](https://user-images.githubusercontent.com/66698429/218162389-1b68a232-e91b-44ba-b7b3-317920d69ee1.png)
-
-
-
-Bom desafio!
